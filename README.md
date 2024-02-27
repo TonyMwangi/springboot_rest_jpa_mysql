@@ -45,15 +45,13 @@ A java SringBoot REST API application with Data JPA & MySql DB.
 	</code>
   </ol>
 <p></p>
-
-
 <h3>Technolgy Used</h3>
 	<ul>
 		<li>JDK 1.8</li>
 		<li>Spring Boot Starter Parent-1.5.9.RELEASE</li>
 		<li>MySql 8.0.17</li>
 	</ul>
- ### Preview
+ <h2>Preview</h2>
  <h3>Get Request</h3>
 ![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg)
 ![Get Request](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg)
