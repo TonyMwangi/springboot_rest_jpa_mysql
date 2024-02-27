@@ -53,9 +53,9 @@ A java SringBoot REST API application with Data JPA & MySql DB.
 	</ul>
  <h2>Preview</h2>
  <h3>Get Request</h3>
- ![Post Request](https://raw.githubusercontent.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg)
- ![Get Request](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg)
+ <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg" alt="Image description">
  <h3>Get Request with body parameter</h3>
+ <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request_with%20body%20parameters.jpg" alt="Image description">
  ![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request_with%20body%20parameters.jpg)
  <h3>Post Request</h3>
  ![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20POST%20Request.jpg)
