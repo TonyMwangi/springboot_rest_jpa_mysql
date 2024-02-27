@@ -52,16 +52,21 @@ A java SringBoot REST API application with Data JPA & MySql DB.
 		<li>MySql 8.0.17</li>
 	</ul>
  <h2>Preview</h2>
- <h3>Get Request</h3>
+		
+ <h3>Get Request</h3><br>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request.jpg" alt="Image description">
- <h3>Get Request with body parameter</h3>
+ <br>
+ <h3>Get Request with body parameter</h3><br>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request_with%20body%20parameters.jpg" alt="Image description">
- ![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request_with%20body%20parameters.jpg)
+ <br>		
  <h3>Post Request</h3>
- ![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20POST%20Request.jpg)
+ <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20POST%20Request.jpg" alt="Image description">
+
 <h3>Put Request</h3>
-![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20PUT%20Request.jpg)
+<img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20PUT%20Request.jpg" alt="Image description">
+
 <h3>Delete Request</h3>
-![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20DELETE%20Request.jpg)
+<img src="image_url" alt="Image description">
+
 <h3>Response in XML</h3>
-![image](https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Responses%20in%20XML%20-%20way1.jpg)
+<img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Responses%20in%20XML%20-%20way1.jpg" alt="Image description">
