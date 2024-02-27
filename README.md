@@ -58,14 +58,14 @@ A java SringBoot REST API application with Data JPA & MySql DB.
  <h3>2. Get Request with body parameter</h3>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20GET%20Request_with%20body%20parameters.jpg" alt="Image description">
  <br>		
- <h3>Post Request</h3>
+ <h3>3. Post Request</h3>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20POST%20Request.jpg" alt="Image description">
  <br>
- <h3>Put Request</h3>
+ <h3>4. Put Request</h3>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20PUT%20Request.jpg" alt="Image description">
  <br>
- <h3>Delete Request</h3>
+ <h3>5. Delete Request</h3>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Rest%20API%20DELETE%20Request.jpg" alt="Image description">
  <br>
- <h3>Response in XML</h3>
+ <h3>6. Response in XML</h3>
  <img src="https://github.com/TonyMwangi/springboot_rest_jpa_mysql/blob/main/image/Responses%20in%20XML%20-%20way1.jpg" alt="Image description">
